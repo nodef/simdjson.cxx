@@ -1,0 +1,27 @@
+{
+  "name": "simdjson.cxx",
+  "version": "4.2.2",
+  "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks; Daniel Lemire (2018).",
+  "keywords": [
+    "cxx",
+    "library",
+    "simdjson",
+    "json",
+    "parser",
+    "high-performance"
+  ],
+  "homepage": "https://github.com/nodef/simdjson.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/simdjson.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/simdjson.cxx.git"
+  },
+  "license": "Apache-2.0",
+  "author": "wolfram77@gmail.com",
+  "main": "simdjson.h",
+  "scripts": {
+    "test": "exit"
+  }
+}
